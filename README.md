@@ -1,1 +1,3 @@
-"# dcl22.github.io" 
+Data Science Tutorial
+
+by Dong C. Lee
